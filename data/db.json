@@ -1,0 +1,1234 @@
+{
+  "machines": [
+    {
+      "id": "M-101",
+      "name": "High-Precision 5-Axis Milling Machine",
+      "type": "M",
+      "status": "healthy",
+      "healthScore": 94,
+      "airTemperatureK": 298.2,
+      "processTemperatureK": 308.7,
+      "rotationalSpeedRpm": 1512,
+      "torqueNm": 41.5,
+      "toolWearMin": 68,
+      "lastMaintenance": "2026-10-28",
+      "nextMaintenance": "2026-12-15",
+      "operatingHours": 1420,
+      "location": "Bay A - Precision Center",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 298.2,
+          "procTemp": 308.4,
+          "rpm": 1512,
+          "torque": 41.5,
+          "toolWear": 56,
+          "health": 96
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 298.5,
+          "procTemp": 308.7,
+          "rpm": 1531,
+          "torque": 42.8,
+          "toolWear": 58,
+          "health": 96
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 298.6,
+          "procTemp": 308.7,
+          "rpm": 1532,
+          "torque": 42.9,
+          "toolWear": 60,
+          "health": 96
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 298.3,
+          "procTemp": 308.4,
+          "rpm": 1515,
+          "torque": 41.7,
+          "toolWear": 62,
+          "health": 96
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 297.9,
+          "procTemp": 308.2,
+          "rpm": 1495,
+          "torque": 40.4,
+          "toolWear": 64,
+          "health": 96
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 297.8,
+          "procTemp": 308.1,
+          "rpm": 1490,
+          "torque": 40.1,
+          "toolWear": 66,
+          "health": 96
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 298.1,
+          "procTemp": 308.3,
+          "rpm": 1506,
+          "torque": 41.1,
+          "toolWear": 68,
+          "health": 96
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 298.5,
+          "procTemp": 308.6,
+          "rpm": 1527,
+          "torque": 42.5,
+          "toolWear": 70,
+          "health": 96
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 298.6,
+          "procTemp": 308.7,
+          "rpm": 1534,
+          "torque": 43,
+          "toolWear": 72,
+          "health": 96
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 298.4,
+          "procTemp": 308.5,
+          "rpm": 1521,
+          "torque": 42.1,
+          "toolWear": 74,
+          "health": 93
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 298,
+          "procTemp": 308.2,
+          "rpm": 1500,
+          "torque": 40.7,
+          "toolWear": 76,
+          "health": 90
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 297.8,
+          "procTemp": 308.1,
+          "rpm": 1490,
+          "torque": 40,
+          "toolWear": 78,
+          "health": 87
+        }
+      ]
+    },
+    {
+      "id": "M-102",
+      "name": "Heavy-Duty CNC Lathe Spindle",
+      "type": "H",
+      "status": "healthy",
+      "healthScore": 91,
+      "airTemperatureK": 299.1,
+      "processTemperatureK": 309.4,
+      "rotationalSpeedRpm": 1640,
+      "torqueNm": 38.2,
+      "toolWearMin": 92,
+      "lastMaintenance": "2026-10-15",
+      "nextMaintenance": "2026-11-30",
+      "operatingHours": 2180,
+      "location": "Bay B - Heavy Turning",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 299.1,
+          "procTemp": 309.3,
+          "rpm": 1640,
+          "torque": 38.2,
+          "toolWear": 78,
+          "health": 93
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 299.4,
+          "procTemp": 309.6,
+          "rpm": 1659,
+          "torque": 39.5,
+          "toolWear": 80,
+          "health": 93
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 299.5,
+          "procTemp": 309.6,
+          "rpm": 1660,
+          "torque": 39.6,
+          "toolWear": 82,
+          "health": 93
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 299.2,
+          "procTemp": 309.3,
+          "rpm": 1643,
+          "torque": 38.4,
+          "toolWear": 84,
+          "health": 93
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 298.8,
+          "procTemp": 309.1,
+          "rpm": 1623,
+          "torque": 37.1,
+          "toolWear": 86,
+          "health": 93
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 298.7,
+          "procTemp": 309,
+          "rpm": 1618,
+          "torque": 36.8,
+          "toolWear": 88,
+          "health": 93
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 299,
+          "procTemp": 309.2,
+          "rpm": 1634,
+          "torque": 37.8,
+          "toolWear": 90,
+          "health": 93
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 299.4,
+          "procTemp": 309.5,
+          "rpm": 1655,
+          "torque": 39.2,
+          "toolWear": 92,
+          "health": 93
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 299.5,
+          "procTemp": 309.6,
+          "rpm": 1662,
+          "torque": 39.7,
+          "toolWear": 94,
+          "health": 93
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 299.3,
+          "procTemp": 309.4,
+          "rpm": 1649,
+          "torque": 38.8,
+          "toolWear": 96,
+          "health": 90
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 298.9,
+          "procTemp": 309.1,
+          "rpm": 1628,
+          "torque": 37.4,
+          "toolWear": 98,
+          "health": 87
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 298.7,
+          "procTemp": 309,
+          "rpm": 1618,
+          "torque": 36.7,
+          "toolWear": 100,
+          "health": 84
+        }
+      ]
+    },
+    {
+      "id": "M-103",
+      "name": "Automated Vertical Machining Center",
+      "type": "L",
+      "status": "warning",
+      "healthScore": 68,
+      "airTemperatureK": 303.4,
+      "processTemperatureK": 311.1,
+      "rotationalSpeedRpm": 1390,
+      "torqueNm": 62.4,
+      "toolWearMin": 184,
+      "lastMaintenance": "2026-09-12",
+      "nextMaintenance": "2026-11-14",
+      "operatingHours": 3410,
+      "location": "Bay A - High Speed Cell",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 303.4,
+          "procTemp": 313.6,
+          "rpm": 1390,
+          "torque": 62.4,
+          "toolWear": 165,
+          "health": 74
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 303.7,
+          "procTemp": 313.9,
+          "rpm": 1409,
+          "torque": 63.7,
+          "toolWear": 167,
+          "health": 74
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 303.8,
+          "procTemp": 313.9,
+          "rpm": 1410,
+          "torque": 63.8,
+          "toolWear": 169,
+          "health": 74
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 303.5,
+          "procTemp": 313.6,
+          "rpm": 1393,
+          "torque": 62.6,
+          "toolWear": 171,
+          "health": 74
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 303.1,
+          "procTemp": 313.4,
+          "rpm": 1373,
+          "torque": 61.3,
+          "toolWear": 173,
+          "health": 74
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 303,
+          "procTemp": 313.3,
+          "rpm": 1368,
+          "torque": 61,
+          "toolWear": 175,
+          "health": 74
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 303.3,
+          "procTemp": 313.5,
+          "rpm": 1384,
+          "torque": 62,
+          "toolWear": 177,
+          "health": 74
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 303.7,
+          "procTemp": 313.8,
+          "rpm": 1405,
+          "torque": 63.4,
+          "toolWear": 179,
+          "health": 74
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 303.8,
+          "procTemp": 313.9,
+          "rpm": 1412,
+          "torque": 63.9,
+          "toolWear": 181,
+          "health": 74
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 303.6,
+          "procTemp": 313.7,
+          "rpm": 1399,
+          "torque": 63,
+          "toolWear": 183,
+          "health": 71
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 303.2,
+          "procTemp": 313.4,
+          "rpm": 1378,
+          "torque": 61.6,
+          "toolWear": 185,
+          "health": 68
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 303,
+          "procTemp": 313.3,
+          "rpm": 1368,
+          "torque": 60.9,
+          "toolWear": 187,
+          "health": 65
+        }
+      ]
+    },
+    {
+      "id": "M-104",
+      "name": "Titanium Boring Mill Unit",
+      "type": "M",
+      "status": "critical",
+      "healthScore": 28,
+      "airTemperatureK": 304.5,
+      "processTemperatureK": 312.2,
+      "rotationalSpeedRpm": 1220,
+      "torqueNm": 68.9,
+      "toolWearMin": 232,
+      "lastMaintenance": "2026-08-01",
+      "nextMaintenance": "2026-11-05 (OVERDUE)",
+      "operatingHours": 4890,
+      "location": "Bay C - Aerospace Alloys",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 304.5,
+          "procTemp": 314.7,
+          "rpm": 1220,
+          "torque": 68.9,
+          "toolWear": 210,
+          "health": 45
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 304.8,
+          "procTemp": 315,
+          "rpm": 1239,
+          "torque": 70.2,
+          "toolWear": 212,
+          "health": 45
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 304.9,
+          "procTemp": 315,
+          "rpm": 1240,
+          "torque": 70.3,
+          "toolWear": 214,
+          "health": 45
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 304.6,
+          "procTemp": 314.7,
+          "rpm": 1223,
+          "torque": 69.1,
+          "toolWear": 216,
+          "health": 45
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 304.2,
+          "procTemp": 314.5,
+          "rpm": 1203,
+          "torque": 67.8,
+          "toolWear": 218,
+          "health": 45
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 304.1,
+          "procTemp": 314.4,
+          "rpm": 1198,
+          "torque": 67.5,
+          "toolWear": 220,
+          "health": 45
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 304.4,
+          "procTemp": 314.6,
+          "rpm": 1214,
+          "torque": 68.5,
+          "toolWear": 222,
+          "health": 45
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 304.8,
+          "procTemp": 314.9,
+          "rpm": 1235,
+          "torque": 69.9,
+          "toolWear": 224,
+          "health": 45
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 304.9,
+          "procTemp": 315,
+          "rpm": 1242,
+          "torque": 70.4,
+          "toolWear": 226,
+          "health": 45
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 304.7,
+          "procTemp": 314.8,
+          "rpm": 1229,
+          "torque": 69.5,
+          "toolWear": 228,
+          "health": 42
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 304.3,
+          "procTemp": 314.5,
+          "rpm": 1208,
+          "torque": 68.1,
+          "toolWear": 230,
+          "health": 39
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 304.1,
+          "procTemp": 314.4,
+          "rpm": 1198,
+          "torque": 67.4,
+          "toolWear": 232,
+          "health": 36
+        }
+      ]
+    },
+    {
+      "id": "M-105",
+      "name": "Flexible Multi-Spindle Drill",
+      "type": "L",
+      "status": "healthy",
+      "healthScore": 89,
+      "airTemperatureK": 297.8,
+      "processTemperatureK": 308.1,
+      "rotationalSpeedRpm": 1720,
+      "torqueNm": 34.1,
+      "toolWearMin": 42,
+      "lastMaintenance": "2026-11-01",
+      "nextMaintenance": "2026-12-28",
+      "operatingHours": 920,
+      "location": "Bay D - Drilling Lines",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 297.8,
+          "procTemp": 308,
+          "rpm": 1720,
+          "torque": 34.1,
+          "toolWear": 30,
+          "health": 92
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 298.1,
+          "procTemp": 308.3,
+          "rpm": 1739,
+          "torque": 35.4,
+          "toolWear": 32,
+          "health": 92
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 298.2,
+          "procTemp": 308.3,
+          "rpm": 1740,
+          "torque": 35.5,
+          "toolWear": 34,
+          "health": 92
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 297.9,
+          "procTemp": 308,
+          "rpm": 1723,
+          "torque": 34.3,
+          "toolWear": 36,
+          "health": 92
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 297.5,
+          "procTemp": 307.8,
+          "rpm": 1703,
+          "torque": 33,
+          "toolWear": 38,
+          "health": 92
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 297.4,
+          "procTemp": 307.7,
+          "rpm": 1698,
+          "torque": 32.7,
+          "toolWear": 40,
+          "health": 92
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 297.7,
+          "procTemp": 307.9,
+          "rpm": 1714,
+          "torque": 33.7,
+          "toolWear": 42,
+          "health": 92
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 298.1,
+          "procTemp": 308.2,
+          "rpm": 1735,
+          "torque": 35.1,
+          "toolWear": 44,
+          "health": 92
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 298.2,
+          "procTemp": 308.3,
+          "rpm": 1742,
+          "torque": 35.6,
+          "toolWear": 46,
+          "health": 92
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 298,
+          "procTemp": 308.1,
+          "rpm": 1729,
+          "torque": 34.7,
+          "toolWear": 48,
+          "health": 89
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 297.6,
+          "procTemp": 307.8,
+          "rpm": 1708,
+          "torque": 33.3,
+          "toolWear": 50,
+          "health": 86
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 297.4,
+          "procTemp": 307.7,
+          "rpm": 1698,
+          "torque": 32.6,
+          "toolWear": 52,
+          "health": 83
+        }
+      ]
+    },
+    {
+      "id": "M-106",
+      "name": "Ultra-Torque Gear Grinding System",
+      "type": "H",
+      "status": "warning",
+      "healthScore": 62,
+      "airTemperatureK": 301.2,
+      "processTemperatureK": 309.8,
+      "rotationalSpeedRpm": 1440,
+      "torqueNm": 58.7,
+      "toolWearMin": 198,
+      "lastMaintenance": "2026-09-20",
+      "nextMaintenance": "2026-11-18",
+      "operatingHours": 2940,
+      "location": "Bay B - Gear Processing",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 301.2,
+          "procTemp": 311.4,
+          "rpm": 1440,
+          "torque": 58.7,
+          "toolWear": 180,
+          "health": 70
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 301.5,
+          "procTemp": 311.7,
+          "rpm": 1459,
+          "torque": 60,
+          "toolWear": 182,
+          "health": 70
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 301.6,
+          "procTemp": 311.7,
+          "rpm": 1460,
+          "torque": 60.1,
+          "toolWear": 184,
+          "health": 70
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 301.3,
+          "procTemp": 311.4,
+          "rpm": 1443,
+          "torque": 58.9,
+          "toolWear": 186,
+          "health": 70
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 300.9,
+          "procTemp": 311.2,
+          "rpm": 1423,
+          "torque": 57.6,
+          "toolWear": 188,
+          "health": 70
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 300.8,
+          "procTemp": 311.1,
+          "rpm": 1418,
+          "torque": 57.3,
+          "toolWear": 190,
+          "health": 70
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 301.1,
+          "procTemp": 311.3,
+          "rpm": 1434,
+          "torque": 58.3,
+          "toolWear": 192,
+          "health": 70
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 301.5,
+          "procTemp": 311.6,
+          "rpm": 1455,
+          "torque": 59.7,
+          "toolWear": 194,
+          "health": 70
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 301.6,
+          "procTemp": 311.7,
+          "rpm": 1462,
+          "torque": 60.2,
+          "toolWear": 196,
+          "health": 70
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 301.4,
+          "procTemp": 311.5,
+          "rpm": 1449,
+          "torque": 59.3,
+          "toolWear": 198,
+          "health": 67
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 301,
+          "procTemp": 311.2,
+          "rpm": 1428,
+          "torque": 57.9,
+          "toolWear": 200,
+          "health": 64
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 300.8,
+          "procTemp": 311.1,
+          "rpm": 1418,
+          "torque": 57.2,
+          "toolWear": 202,
+          "health": 61
+        }
+      ]
+    },
+    {
+      "id": "M-107",
+      "name": "Robotic Surface Milling Cell",
+      "type": "M",
+      "status": "healthy",
+      "healthScore": 96,
+      "airTemperatureK": 298.5,
+      "processTemperatureK": 308.9,
+      "rotationalSpeedRpm": 1560,
+      "torqueNm": 39.8,
+      "toolWearMin": 35,
+      "lastMaintenance": "2026-11-04",
+      "nextMaintenance": "2027-01-10",
+      "operatingHours": 640,
+      "location": "Bay A - Robotic Cell",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 298.5,
+          "procTemp": 308.7,
+          "rpm": 1560,
+          "torque": 39.8,
+          "toolWear": 22,
+          "health": 98
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 298.8,
+          "procTemp": 309,
+          "rpm": 1579,
+          "torque": 41.1,
+          "toolWear": 24,
+          "health": 98
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 298.9,
+          "procTemp": 309,
+          "rpm": 1580,
+          "torque": 41.2,
+          "toolWear": 26,
+          "health": 98
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 298.6,
+          "procTemp": 308.7,
+          "rpm": 1563,
+          "torque": 40,
+          "toolWear": 28,
+          "health": 98
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 298.2,
+          "procTemp": 308.5,
+          "rpm": 1543,
+          "torque": 38.7,
+          "toolWear": 30,
+          "health": 98
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 298.1,
+          "procTemp": 308.4,
+          "rpm": 1538,
+          "torque": 38.4,
+          "toolWear": 32,
+          "health": 98
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 298.4,
+          "procTemp": 308.6,
+          "rpm": 1554,
+          "torque": 39.4,
+          "toolWear": 34,
+          "health": 98
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 298.8,
+          "procTemp": 308.9,
+          "rpm": 1575,
+          "torque": 40.8,
+          "toolWear": 36,
+          "health": 98
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 298.9,
+          "procTemp": 309,
+          "rpm": 1582,
+          "torque": 41.3,
+          "toolWear": 38,
+          "health": 98
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 298.7,
+          "procTemp": 308.8,
+          "rpm": 1569,
+          "torque": 40.4,
+          "toolWear": 40,
+          "health": 95
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 298.3,
+          "procTemp": 308.5,
+          "rpm": 1548,
+          "torque": 39,
+          "toolWear": 42,
+          "health": 92
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 298.1,
+          "procTemp": 308.4,
+          "rpm": 1538,
+          "torque": 38.3,
+          "toolWear": 44,
+          "health": 89
+        }
+      ]
+    },
+    {
+      "id": "M-108",
+      "name": "High-Speed Micro-Milling Center",
+      "type": "H",
+      "status": "healthy",
+      "healthScore": 88,
+      "airTemperatureK": 299.4,
+      "processTemperatureK": 309.9,
+      "rotationalSpeedRpm": 1820,
+      "torqueNm": 31.6,
+      "toolWearMin": 85,
+      "lastMaintenance": "2026-10-18",
+      "nextMaintenance": "2026-12-04",
+      "operatingHours": 1750,
+      "location": "Bay C - Micro-Tooling",
+      "sensorHistory": [
+        {
+          "timestamp": "09:09 AM",
+          "airTemp": 299.4,
+          "procTemp": 309.6,
+          "rpm": 1820,
+          "torque": 31.6,
+          "toolWear": 70,
+          "health": 90
+        },
+        {
+          "timestamp": "11:09 AM",
+          "airTemp": 299.7,
+          "procTemp": 309.9,
+          "rpm": 1839,
+          "torque": 32.9,
+          "toolWear": 72,
+          "health": 90
+        },
+        {
+          "timestamp": "01:09 PM",
+          "airTemp": 299.8,
+          "procTemp": 309.9,
+          "rpm": 1840,
+          "torque": 33,
+          "toolWear": 74,
+          "health": 90
+        },
+        {
+          "timestamp": "03:09 PM",
+          "airTemp": 299.5,
+          "procTemp": 309.6,
+          "rpm": 1823,
+          "torque": 31.8,
+          "toolWear": 76,
+          "health": 90
+        },
+        {
+          "timestamp": "05:09 PM",
+          "airTemp": 299.1,
+          "procTemp": 309.4,
+          "rpm": 1803,
+          "torque": 30.5,
+          "toolWear": 78,
+          "health": 90
+        },
+        {
+          "timestamp": "07:09 PM",
+          "airTemp": 299,
+          "procTemp": 309.3,
+          "rpm": 1798,
+          "torque": 30.2,
+          "toolWear": 80,
+          "health": 90
+        },
+        {
+          "timestamp": "09:09 PM",
+          "airTemp": 299.3,
+          "procTemp": 309.5,
+          "rpm": 1814,
+          "torque": 31.2,
+          "toolWear": 82,
+          "health": 90
+        },
+        {
+          "timestamp": "11:09 PM",
+          "airTemp": 299.7,
+          "procTemp": 309.8,
+          "rpm": 1835,
+          "torque": 32.6,
+          "toolWear": 84,
+          "health": 90
+        },
+        {
+          "timestamp": "01:09 AM",
+          "airTemp": 299.8,
+          "procTemp": 309.9,
+          "rpm": 1842,
+          "torque": 33.1,
+          "toolWear": 86,
+          "health": 90
+        },
+        {
+          "timestamp": "03:09 AM",
+          "airTemp": 299.6,
+          "procTemp": 309.7,
+          "rpm": 1829,
+          "torque": 32.2,
+          "toolWear": 88,
+          "health": 87
+        },
+        {
+          "timestamp": "05:09 AM",
+          "airTemp": 299.2,
+          "procTemp": 309.4,
+          "rpm": 1808,
+          "torque": 30.8,
+          "toolWear": 90,
+          "health": 84
+        },
+        {
+          "timestamp": "07:09 AM",
+          "airTemp": 299,
+          "procTemp": 309.3,
+          "rpm": 1798,
+          "torque": 30.1,
+          "toolWear": 92,
+          "health": 81
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-60682",
+      "machineId": "M-101",
+      "machineName": "High-Precision 5-Axis Milling Machine",
+      "category": "Critical Failure Risk",
+      "severity": "critical",
+      "description": "AI Prediction Flag: Heat Dissipation Failure (HDF) (Risk: 93%)",
+      "timestamp": "2026-11-12T07:11:00.682Z",
+      "recommendedAction": "Inspect heat exchanger and cooling ducts. Temperature delta is 7.0K (optimal: >9.0K) at 1280 RPM.",
+      "status": "resolved",
+      "resolvedAt": "2026-11-12T07:11:44.354Z",
+      "resolvedBy": "Current Operator"
+    },
+    {
+      "id": "ALT-08904",
+      "machineId": "M-104",
+      "machineName": "Titanium Boring Mill Unit",
+      "category": "Critical Failure Risk",
+      "severity": "critical",
+      "description": "AI Prediction Flag: Overstrain Failure (OSF) (Risk: 98%)",
+      "timestamp": "2026-11-12T07:10:08.904Z",
+      "recommendedAction": "Inspect heat exchanger and cooling ducts. Temperature delta is 7.7K (optimal: >9.0K) at 1220 RPM.",
+      "status": "active"
+    },
+    {
+      "id": "ALT-801",
+      "machineId": "M-104",
+      "machineName": "Titanium Boring Mill Unit",
+      "category": "Critical Failure Risk",
+      "severity": "critical",
+      "description": "Severe compound risk: Tool wear at 232 min (TWF risk 88%) combined with thermal dissipation bottleneck (Temp diff 7.7K).",
+      "timestamp": "2026-11-11T20:45:00Z",
+      "recommendedAction": "Halt spindle immediately. Replace carbide cutting insert and inspect fluid coolant supply nozzle.",
+      "status": "active"
+    },
+    {
+      "id": "ALT-802",
+      "machineId": "M-103",
+      "machineName": "Automated Vertical Machining Center",
+      "category": "High Failure Risk",
+      "severity": "high",
+      "description": "Overstrain envelope threshold reached: Torque × Tool wear product is 11,481 min·Nm (approaching 11,000 min·Nm limit for L-Type).",
+      "timestamp": "2026-11-11T18:30:00Z",
+      "recommendedAction": "Reduce feed rate by 15% and schedule tool replacement before next high-load batch run.",
+      "status": "active"
+    },
+    {
+      "id": "ALT-803",
+      "machineId": "M-106",
+      "machineName": "Ultra-Torque Gear Grinding System",
+      "category": "Sensor Anomaly",
+      "severity": "medium",
+      "description": "Spindle torque fluctuations ±18% detected during continuous grinding cycle at 1440 RPM.",
+      "timestamp": "2026-11-11T14:15:00Z",
+      "recommendedAction": "Recalibrate torque transducer and inspect drive belt tension.",
+      "status": "active"
+    },
+    {
+      "id": "ALT-804",
+      "machineId": "M-104",
+      "machineName": "Titanium Boring Mill Unit",
+      "category": "Maintenance Overdue",
+      "severity": "high",
+      "description": "Mandatory 4500-hour comprehensive bearing & spindle maintenance is 6 days overdue.",
+      "timestamp": "2026-11-05T08:00:00Z",
+      "recommendedAction": "Dispatch Level-3 maintenance engineer for lubrication and runout alignment.",
+      "status": "active"
+    },
+    {
+      "id": "ALT-800",
+      "machineId": "M-102",
+      "machineName": "Heavy-Duty CNC Lathe Spindle",
+      "category": "Scheduled Maintenance",
+      "severity": "low",
+      "description": "Routine coolant filter replacement completed and verified.",
+      "timestamp": "2026-11-10T09:20:00Z",
+      "recommendedAction": "System verified. Closed by supervisor.",
+      "status": "resolved",
+      "resolvedAt": "2026-11-10T11:00:00Z",
+      "resolvedBy": "Eng. M. Reynolds"
+    }
+  ],
+  "predictions": [
+    {
+      "machineId": "M-101",
+      "machineName": "High-Precision 5-Axis Milling Machine",
+      "airTemperatureK": 302.5,
+      "processTemperatureK": 309.5,
+      "rotationalSpeedRpm": 1280,
+      "torqueNm": 45,
+      "toolWearMin": 55,
+      "prediction": 1,
+      "failureProbability": 0.93,
+      "riskLevel": "Critical Risk",
+      "primaryFailureMode": "Heat Dissipation Failure (HDF)",
+      "modelSource": "AI4I 2020 Calibrated Neural Engine",
+      "recommendations": [
+        "Inspect heat exchanger and cooling ducts. Temperature delta is 7.0K (optimal: >9.0K) at 1280 RPM."
+      ],
+      "id": "PRED-460681",
+      "createdAt": "2026-11-12T07:11:00.681Z"
+    },
+    {
+      "machineId": "M-104",
+      "machineName": "Titanium Boring Mill Unit",
+      "airTemperatureK": 304.5,
+      "processTemperatureK": 312.2,
+      "rotationalSpeedRpm": 1220,
+      "torqueNm": 68.9,
+      "toolWearMin": 232,
+      "prediction": 1,
+      "failureProbability": 0.98,
+      "riskLevel": "Critical Risk",
+      "primaryFailureMode": "Overstrain Failure (OSF)",
+      "modelSource": "AI4I 2020 Calibrated Neural Engine",
+      "recommendations": [
+        "Inspect heat exchanger and cooling ducts. Temperature delta is 7.7K (optimal: >9.0K) at 1220 RPM.",
+        "Drive power overload detected (8803 W > 9000 W limit). Verify spindle load and bearing lubrication.",
+        "Overstrain limit exceeded (15985 min·Nm vs 12000 max). Replace worn insert and reduce feed torque.",
+        "Tool insert wear critical at 232 mins (end-of-life threshold: 200 min). Schedule immediate tool replacement."
+      ],
+      "id": "PRED-408904",
+      "createdAt": "2026-11-12T07:10:08.904Z"
+    },
+    {
+      "id": "PRED-9001",
+      "machineId": "M-104",
+      "machineName": "Titanium Boring Mill Unit",
+      "airTemperatureK": 304.5,
+      "processTemperatureK": 312.2,
+      "rotationalSpeedRpm": 1220,
+      "torqueNm": 68.9,
+      "toolWearMin": 232,
+      "prediction": 1,
+      "failureProbability": 0.912,
+      "riskLevel": "Critical Risk",
+      "primaryFailureMode": "Tool Wear Failure (TWF)",
+      "createdAt": "2026-11-11T21:10:00Z",
+      "modelSource": "AI4I 2020 Deep Neural Network",
+      "recommendations": [
+        "Tool insert wear critical at 232 mins (end-of-life threshold: 200 min). Schedule immediate tool replacement.",
+        "Inspect heat exchanger and cooling ducts. Temperature delta is 7.7K (optimal: >9.0K) at 1220 RPM."
+      ]
+    },
+    {
+      "id": "PRED-9002",
+      "machineId": "M-103",
+      "machineName": "Automated Vertical Machining Center",
+      "airTemperatureK": 303.4,
+      "processTemperatureK": 311.1,
+      "rotationalSpeedRpm": 1390,
+      "torqueNm": 62.4,
+      "toolWearMin": 184,
+      "prediction": 1,
+      "failureProbability": 0.635,
+      "riskLevel": "High Risk",
+      "primaryFailureMode": "Overstrain Failure (OSF)",
+      "createdAt": "2026-11-11T19:40:00Z",
+      "modelSource": "AI4I 2020 Deep Neural Network",
+      "recommendations": [
+        "Overstrain limit exceeded (11481 min·Nm vs 11000 max). Replace worn insert and reduce feed torque."
+      ]
+    },
+    {
+      "id": "PRED-9003",
+      "machineId": "M-106",
+      "machineName": "Ultra-Torque Gear Grinding System",
+      "airTemperatureK": 301.2,
+      "processTemperatureK": 309.8,
+      "rotationalSpeedRpm": 1440,
+      "torqueNm": 58.7,
+      "toolWearMin": 198,
+      "prediction": 0,
+      "failureProbability": 0.42,
+      "riskLevel": "Medium Risk",
+      "primaryFailureMode": "Tool Wear Failure (TWF)",
+      "createdAt": "2026-11-11T16:25:00Z",
+      "modelSource": "AI4I 2020 Deep Neural Network",
+      "recommendations": [
+        "Tool wear nearing critical endurance threshold (198 min). Prepare replacement tooling."
+      ]
+    },
+    {
+      "id": "PRED-9004",
+      "machineId": "M-101",
+      "machineName": "High-Precision 5-Axis Milling Machine",
+      "airTemperatureK": 298.2,
+      "processTemperatureK": 308.7,
+      "rotationalSpeedRpm": 1512,
+      "torqueNm": 41.5,
+      "toolWearMin": 68,
+      "prediction": 0,
+      "failureProbability": 0.042,
+      "riskLevel": "Low Risk",
+      "primaryFailureMode": "None",
+      "createdAt": "2026-11-11T15:00:00Z",
+      "modelSource": "AI4I 2020 Deep Neural Network",
+      "recommendations": [
+        "Machine is operating within normal technical tolerance envelopes. Continue standard monitoring schedule."
+      ]
+    },
+    {
+      "id": "PRED-9005",
+      "machineId": "M-107",
+      "machineName": "Robotic Surface Milling Cell",
+      "airTemperatureK": 298.5,
+      "processTemperatureK": 308.9,
+      "rotationalSpeedRpm": 1560,
+      "torqueNm": 39.8,
+      "toolWearMin": 35,
+      "prediction": 0,
+      "failureProbability": 0.028,
+      "riskLevel": "Low Risk",
+      "primaryFailureMode": "None",
+      "createdAt": "2026-11-11T12:15:00Z",
+      "modelSource": "AI4I 2020 Deep Neural Network",
+      "recommendations": [
+        "Machine is operating within normal technical tolerance envelopes. Continue standard monitoring schedule."
+      ]
+    }
+  ]
+}

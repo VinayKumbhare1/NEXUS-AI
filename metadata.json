@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS AI - Predictive Maintenance Intelligence Platform",
+  "description": "Intelligent industrial monitoring platform that analyzes machine sensor data, predicts equipment failures, and automates maintenance operations for smart factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
